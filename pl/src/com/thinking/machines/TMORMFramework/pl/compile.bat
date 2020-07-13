@@ -1,0 +1,1 @@
+javac -d c:\TMORMFramework\pl\classes -classpath c:\TMORMFramework\pl\lib\*;c:\TMORMFramework\dl\classes;. *.java
