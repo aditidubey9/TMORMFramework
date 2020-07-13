@@ -3,7 +3,7 @@ This framework is used to make programmer free from writing sql.
 Currently this framework only support mysql.
 
 # How to use
-Thier are two ways to use the framework:
+There are two ways to use the framework:
 
 1) Using framework as a service in a program.
 2) Using Framework as a tool with gui.
