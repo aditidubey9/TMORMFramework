@@ -1,2 +1,0 @@
-javac -cp c:\TMORMFramework\pl\classes;c:\TMORMFramework\pl\lib\*;c:\TMORMFramework\dl\classes;. *.java
-java -cp c:\TMORMFramework\pl\classes;c:\TMORMFramework\pl\lib\*;c:\TMORMFramework\dl\classes;.  psp
