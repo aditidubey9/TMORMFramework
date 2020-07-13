@@ -76,16 +76,27 @@ b) After creating above file you have to create a class with use of following an
     d)select(String className): It is used to perform select operation on the table and view specified in the class.It has following methods:
     
        1)Where(String fieldName).
+       
        2)orderBy(String fieldName).
+       
        3)ascending()
+       
        4)descending()
+       
        5)and(String fieldName)
-       6)or(String fieldName).
+       
+       6)or(String fieldName)
+       
        7)lt(Object value)=less than
+       
        8)eq(Object value)=equal
+       
        9)neq(Object value)=not equal
+       
        10)gt(Object value)=greater than
+       
        11)le(Object value)=less than equal
+       
        12)ge(Object value)=greater than equal
    
    
